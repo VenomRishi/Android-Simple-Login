@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "298841817989",
+    "firebase_url": "https://loginactivity-7fdd4.firebaseio.com",
+    "project_id": "loginactivity-7fdd4",
+    "storage_bucket": "loginactivity-7fdd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298841817989:android:ed1b9ac6296883a2",
+        "android_client_info": {
+          "package_name": "com.example.acer.loginactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298841817989-gmocldm08u3ulobggtpeik8pn4btqcc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.loginactivity",
+            "certificate_hash": "447f6f32c4edc2988915378d30160da9406aace1"
+          }
+        },
+        {
+          "client_id": "298841817989-oab65latnrv87vd2p6f3t9l5g2hqcmft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjL-8EnbWFtJgbOzGS5569RP7BqYOR2vI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298841817989-oab65latnrv87vd2p6f3t9l5g2hqcmft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
